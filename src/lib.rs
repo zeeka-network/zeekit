@@ -141,3 +141,4 @@ mod config;
 pub mod eddsa;
 pub mod merkle;
 pub mod mimc;
+pub mod poseidon;

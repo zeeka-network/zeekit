@@ -9,6 +9,7 @@ homepage = "https://github.com/zeeka-network/zeekit"
 license = "MIT"
 
 [dependencies]
+hex = "0.4"
 rand = "0.8.5"
 lazy_static = "1.4.0"
 num-bigint = "0.4"
